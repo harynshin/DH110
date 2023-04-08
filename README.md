@@ -1,18 +1,6 @@
-# DH110-Sring23
+# Enhancing Family Connection Through a Shared Journal
+## DH110 Assignment 01: Heuristic Evaluation by Haryn Shin
 
-## Haryn Shin
 
-### Project title
 
-#### Project description
-
-##### Assignment01
-
-This is a space for DH110 UX project.
-
-https://github.com/harynshin
-
-[go to harynshin github](https://github.com/harynshin)
-
-<img width="1215" alt="ucla_landing_page" src="https://user-images.githubusercontent.com/116034969/230437871-556fd2e5-ade5-4308-8032-17f10e0e53c4.png">
-
+![Heuristic Evaluaton 1-5](https://user-images.githubusercontent.com/116034969/230694164-9964f337-bd2d-463d-bfa4-bc7a1d8472d0.svg)
