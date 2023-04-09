@@ -7,6 +7,14 @@ Through this UX project, I hope to provide family members, especially those who 
 
 For assignment 1, I will be conducting heuristic evaluations on two apps that aimed to achieve similar goals to mine. The first is Waffle, a collaborative journal app that is intended to be used among those whom users are close with. The app allows a group of members to create a shared journal where each member can share their experiences. The second app is eFamily, which allows a group of users to form a "family" with the goal of having them stay in touch with each other effortlessly. The app allows each users to share their "moments" as well as create a collaborative family album that consists of photos of family memories, history, and more. The evaluations will be based on the [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) developed by Jakob Nielsen and the severity of the violation of each heuristic for each app will be reccorded on a scale of 0-4. 
 
+## App #1: Waffle
+[dh110 heuristic evaluation.zip](https://github.com/harynshin/DH110-HARYNSHIN/files/11184858/dh110.heuristic.evaluation.zip)
+(App description)
+
+## App #2: eFamily
+[dh110 heuristic evaluation (1).zip](https://github.com/harynshin/DH110-HARYNSHIN/files/11184862/dh110.heuristic.evaluation.1.zip)
+(App description)
+
 
 
 
