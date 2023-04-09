@@ -1,5 +1,5 @@
-# Enhancing Family Connection Through a Shared Journal
-## DH110 Assignment 01: Heuristic Evaluation by Haryn Shin
+# DH110 Assignment 01: Heuristic Evaluation by Haryn Shin
+## Enhancing Family Connection Through a Shared Journal 
 
 Growing up, both of my parents worked and in middle school, I got to study abroad in America alone, thanks to my grateful parents. Therefore, I was physically distant from my family for a significant amount of my life time. Even though I visited home every summer, most of our family time would consist of shallow conversation about what is happening in the world, catching up with each other shortly about what each of us were doing, and watching a show or two together. After catching up and spending time together for a month or so like this, each of us would all go back to our lives yet again and focus on our own lives. Though we were just physically away from each other, I felt that we were also emotionally getting farther apart as time passed. I rarely bothered sharing my emotions and start so-called 'deep talks' with my family because I just got so used to making decisions independently and we could not make the space nor the time to do so. Occasionally, I found myself missing the deep talks I had with my dad, jokingly planning a creative sister business with my older sister, and getting advice from my mom about how to choose the right guy to date. I wanted to re-establish a strong emotional connection with my family again, though we may be apart. 
 
