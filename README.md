@@ -18,7 +18,8 @@ More about Waffle can be found at: [Waffle](https://www.wafflejournal.com/)
 **Heuristic Evaluation**
 Overall Evaluation: write
 
-![HE_Waffle (1)](https://user-images.githubusercontent.com/116034969/231016418-5a1dd61a-2889-4dec-ab20-b5c6c6b00664.svg)
+![HE_Waffle (2)](https://user-images.githubusercontent.com/116034969/231019820-336ebdf5-6e14-4da0-b6d7-df69150a785a.svg)
+
 
 
 
@@ -33,7 +34,8 @@ More about eFamily can be found at: [efamily](https://efamily.com/)
 **Heuristic Evaluation**
 Overall Evaluation: write
 
-![HE_eFamily](https://user-images.githubusercontent.com/116034969/231019615-47bdefb2-be4d-4fec-8da8-85a0865557df.svg)
+![HE_eFamily (1)](https://user-images.githubusercontent.com/116034969/231019851-2a73b3ea-fff9-47d9-9fe6-f835a279b439.svg)
+
 
 
 
