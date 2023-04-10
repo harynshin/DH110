@@ -39,7 +39,9 @@ Overall Evaluation: write
 
 ## Sources
 Heuristic Evaluation Figma template used in the assignment: [Heuristic Evaluation Figma Template](https://www.figma.com/file/g8hJpDc61WY0BNdVdoox2e/Heuristic-Evaluation-Template-(Community)?node-id=0-1&t=eeGRHpMkiYAkZdUU-0)
+
 Heuristic Evaluation Reference: https://github.com/JoyHsieh/DH110-JoyHsieh-Assignment01/blob/main/README.md
+
 [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
 
