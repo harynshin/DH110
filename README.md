@@ -11,9 +11,15 @@ For assignment 1, I will be conducting heuristic evaluations on two apps that ai
 **App Description**
 
 More about Waffle can be found at: [Waffle](https://www.wafflejournal.com/)
+
+![Waffle_SS](https://user-images.githubusercontent.com/116034969/231018005-deb8daa4-b2d6-465a-ae42-992a2b798d22.svg)
+
+
 **Heuristic Evaluation**
-Overall Evaluation: 
-![HE_Waffle](https://user-images.githubusercontent.com/116034969/231014526-d56bfdec-3a92-4934-b325-5dbdf686f2ff.svg)
+Overall Evaluation: write
+
+![HE_Waffle (1)](https://user-images.githubusercontent.com/116034969/231016418-5a1dd61a-2889-4dec-ab20-b5c6c6b00664.svg)
+
 
 
 
@@ -22,8 +28,16 @@ Overall Evaluation:
 
 More about eFamily can be found at: [efamily](https://efamily.com/)
 
+![eFamily_SS (1)](https://user-images.githubusercontent.com/116034969/231019642-e6a8b2b7-f473-4290-a8d3-a7f80df6920d.svg)
+
 **Heuristic Evaluation**
-Overall Evaluation: 
+Overall Evaluation: write
+
+![HE_eFamily](https://user-images.githubusercontent.com/116034969/231019615-47bdefb2-be4d-4fec-8da8-85a0865557df.svg)
+
+
+
+
 
 
 
