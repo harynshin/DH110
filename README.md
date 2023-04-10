@@ -22,19 +22,25 @@ Overall Evaluation: write
 
 
 
-
-
 ## App #2: eFamily
 **App Description**
 
+(content)
 More about eFamily can be found at: [efamily](https://efamily.com/)
 
 ![eFamily_SS (1)](https://user-images.githubusercontent.com/116034969/231019642-e6a8b2b7-f473-4290-a8d3-a7f80df6920d.svg)
 
 **Heuristic Evaluation**
+
 Overall Evaluation: write
 
 ![HE_eFamily (1)](https://user-images.githubusercontent.com/116034969/231019851-2a73b3ea-fff9-47d9-9fe6-f835a279b439.svg)
+
+
+## Sources
+Heuristic Evaluation Figma template used in the assignment: [Heuristic Evaluation Figma Template](https://www.figma.com/file/g8hJpDc61WY0BNdVdoox2e/Heuristic-Evaluation-Template-(Community)?node-id=0-1&t=eeGRHpMkiYAkZdUU-0)
+Heuristic Evaluation Reference: https://github.com/JoyHsieh/DH110-JoyHsieh-Assignment01/blob/main/README.md
+[10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
 
 
