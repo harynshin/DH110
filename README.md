@@ -32,7 +32,7 @@ Overall Evaluation: The app is easy to navigate through different features and d
 
 eFamily is an app in which users can create a collaborative album with their close ones and also share media, interact with others' shared media, and interact with others within a shared space called a "Family". On the app, a group of users can form a family group, share written posts, photos/ videos, or add media to their shared album with the aim of recording their valuable memories on the platform. Through eFamily, the app developers aimed to keep families in touch and allow users to look back and bond over shared memories. 
 
-More about eFamily can be found at: [efamily](https://efamily.com/)
+More about eFamily can be found at: [eFamily](https://efamily.com/)
 
 ![eFamily_SS (1)](https://user-images.githubusercontent.com/116034969/231019642-e6a8b2b7-f473-4290-a8d3-a7f80df6920d.svg)
 
