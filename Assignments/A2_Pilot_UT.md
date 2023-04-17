@@ -3,7 +3,11 @@
 ## Introduction
 The app that I conducted the usability testing for is the [Waffle app](https://www.wafflejournal.com/). This app is a collaborative journaling app that provides a group of users a space to interact within a shared, interactive journal. The app allows users to create a journal based on their preference, invite collaborators to the journal, and share some snippets of their lives to the members of the journal. Through this app, Waffle aims to enhance the connections between families and friends by creating stronger emotional bonds among the members. 
 
-The purpose of the usability testing is to learn about how usable the Waffle app is, especially for novel users, and detect what issues there are within the app that could impede the app experience. Through the Waffle app's heuristic evaluation, I found that there were three key issues: 1) the ambiguity of icon usage that does not necessarily follow the standard conventions, 2) the confusing two-part settings page, and 3) insufficient ways for users to get help as well as a lack of documentation. Therefore, the tasks in the usability testing process were designed to cover all three of these aspects while also seeing how the user interacts and navigates through different parts of the app overall. 
+The purpose of the usability testing is to learn about how usable the Waffle app is, especially for novel users, and detect what issues there are within the app that could impede the app experience. Through the Waffle app's heuristic evaluation, I found that there were three key issues: 
+1) The ambiguity of icon usage that does not necessarily follow the standard conventions. 
+2) The confusing two-part settings page, and 
+3) Insufficient ways for users to get help as well as a lack of documentation
+Therefore, the tasks in the usability testing process were designed to cover all three of these aspects while also seeing how the user interacts and navigates through different parts of the app overall. 
 
 ## Methods
 The usability testing was conducted in a reserved lounge room at UCLA, administered in a form of survey questionnaires and solving given tasks. The test is consisted of the following sections:
