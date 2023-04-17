@@ -5,8 +5,9 @@ The app that I conducted the usability testing for is the [Waffle app](https://w
 
 The purpose of the usability testing is to learn about how usable the Waffle app is, especially for novel users, and detect what issues there are within the app that could impede the app experience. Through the Waffle app's heuristic evaluation, I found that there were three key issues: 
 1) The ambiguity of icon usage that does not necessarily follow the standard conventions. 
-2) The confusing two-part settings page, and 
-3) Insufficient ways for users to get help as well as a lack of documentation
+2) The confusing two-part settings page.
+3) Insufficient ways for users to get help as well as a lack of documentation.
+
 Therefore, the tasks in the usability testing process were designed to cover all three of these aspects while also seeing how the user interacts and navigates through different parts of the app overall. 
 
 ## Methods
