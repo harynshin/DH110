@@ -33,7 +33,7 @@ My user was able to complete all of the tasks with relative ease throughout the 
 -  Overall, such usage of icons would not be as intuitive and this could be improved by closely following the conventional icon usage or, if the icons cannot be replaced, documenting what the icons do and where they lead users to would be necessary for improvement. 
 
 2) The two-part settings page
-- During the heuristic evaluation stage, I thought that the two-part settings (one settings page for the overall app usage such as notifications, account information, and system settings, and another settings page for the specific journal) would be confusing to users and lead to unnecessary back-and-forths for users to find the correct settings. Through task 03, I aimed to test this out by having the user set specific things up on both of the settings page. 
+- During the heuristic evaluation stage, I thought that the two-part settings (one settings page for the overall app usage such as notifications, account information, and system settings, and another settings page for the specific journal) would be confusing to users and lead to unnecessary back-and-forths for users to find the correct settings. Through task 3, I aimed to test this out by having the user set specific things up on both of the settings page. 
 - Though at first, the user seemed a bit challenged by learning what specific settings were located at (such as the journal text size), the user managed to quickly learn about them and complete the tasks. Nevertheless, to minimize the user's cognitive load from the beginning, combining the settings pages into one could be more efficient in terms of improvement.  
 
 3) Insufficient ways for users to get help & a lack of documentation
