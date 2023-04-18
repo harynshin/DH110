@@ -27,7 +27,7 @@ Link to the online survey (Participant view): [UT-Waffle Google Form](https://fo
 [Click [here](https://docs.google.com/forms/d/1ZGq73FXadKbL0kMhpDfvTmY66-Cn6A7q0JsEiBKMHi8/edit) to access instructor (Dr. Cho) view]
 
 ## Pilot UT Video
-Link to the pilot UT video (google drive): [Pilot UT Video by Haryn Shin](https://drive.google.com/file/d/1CzUHpMwsINs7-Dgxu55-YBvzky_5Z83B/view?usp=sharing)
+Link to the pilot UT video: [Pilot UT Video by Haryn Shin](https://youtu.be/3rgZsXbSLkg)
 
 ## Summary of Findings
 My user was able to complete all of the tasks with relative ease throughout the usability testing process, which mostly indicated that the Waffle app was user-friendly and nicely built for even novel users. Nevertheless, I was able to find some usability issues that existed for the app. Though these could be minor issues that could be easily fixed, the usability testing process was crucial in understanding how the app could be improved and what aspects to keep in mind when designing an app for users. Below details the findings regarding the three key issues of the app that I aimed to explore through the usability testing tasks.
