@@ -7,7 +7,7 @@
 - This activity aims to enhance the relationship and connection among family members effortlessly, even if they may be phsycially away from one another. By recording and sharing snippets of each member's life, emotional experiences and thoughts, and interacting with each other's journal entries on the shared family journal, users will be able to stay in contact with their distant family members easily and hopefully feel at home. 
 
 **What is(are) the traditional/current solution(s) to satisfy the needs?**
-- The traditional solution as to satisfying such goals or needs of staying in touch with distant family members varies by different individuals -- some may make calls to their family members occasionally, others may text them on a daily basis to stay connected. 
+- The traditional solution as to satisfying such goals or needs of staying in touch with distant family members varies by different individuals; some may make calls to their family members occasionally, others may text them on a daily basis to stay connected. 
 
 **What is(are) the limitation(s) that possibly would be improved?**
 - Though they provide the most basic and essential ways of communication, the limitations as to relying on calls and texts are that first, users with distant family members may find the differing time zones challenging. Moreover, 
