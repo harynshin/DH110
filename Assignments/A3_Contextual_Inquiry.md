@@ -57,10 +57,10 @@ After preparing the interview materials, I contacted the ideal participant, sche
 > - Please find the interview observation notes here: [Contextual Inquiry Observation Notes](https://drive.google.com/file/d/1b7VzxsJlcgVWRzCv1dGN2bsC9_xHgAFR/view?usp=sharing)
 > - Please find the user activity sheet here: [User Activity Response](https://drive.google.com/file/d/1azpsZ_FGM-6hxqdq6JrCab6fWmw79cJO/view?usp=sharing) & [User Activity Template](https://drive.google.com/file/d/1LUF26T4Kak-N0zmw59svijdqRyMDitAg/view?usp=sharing)
 
-**User Insight Highlights**
+### User Insights
 - Quote #1 thing
-> (Quote #1)
+  > (Quote #1)
 
 ## 📋 Step 6: Reflection
-
+Reflection
 
