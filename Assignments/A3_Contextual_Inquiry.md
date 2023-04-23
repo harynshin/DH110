@@ -48,7 +48,7 @@ Brainstorm the right contexts and narrow down to decide where to visit physicall
 ## 📋 Step 5: Conduct the research
 After preparing the interview materials, I contacted the ideal participant, scheduled a time for an interview, and met them at a reserved lounge room at UCLA. Linked below are the digitaized observation notes, representative data file, and the full transcript of the interview.
 > - Please find the full video recording of the interview here: [Contextual Inquiry User Interview](https://youtu.be/72OVV86BN5M)
-> - Please find the transcribed interview here: [Contextual Inquiry User Interview Transcript]()
+> - Please find the transcribed interview here: [Contextual Inquiry User Interview Transcript](https://docs.google.com/document/d/1KGANFbmCY4J4FUPg44TqFym1CGTFQXLztNn8qYWotCw/edit?usp=sharing)
 > - Please find the interview observation notes here: [Contextual Inquiry Observation Notes](https://drive.google.com/file/d/1b7VzxsJlcgVWRzCv1dGN2bsC9_xHgAFR/view?usp=sharing)
 
 **User Insight Highlights**
