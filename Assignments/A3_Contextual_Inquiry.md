@@ -20,7 +20,7 @@
 - Mainstream vs. Extreme: 
 
 **In which context would the users do that activity?**
-- Where:
+- Where: A reserved lounge at UCLA
 - Why:
 - Conditions (Under which conditions): 
 
@@ -48,7 +48,7 @@ Brainstorm the right contexts and narrow down to decide where to visit physicall
 
 ## 📋 Step 5: Conduct the research
 After preparing the interview materials, I contacted the ideal participant, scheduled a time for an interview, and met them at a reserved lounge room at UCLA. Linked below are the digitaized observation notes, representative data file, and the full transcript of the interview.
-- Please find the full video recording of the interview here: [Contextual Inquiry User Interview]()
+- Please find the full video recording of the interview here: [Contextual Inquiry User Interview](https://youtu.be/72OVV86BN5M)
 - Please find the transcribed interview here: [Contextual Inquiry User Interview Transcript]()
 
 **User Insight Highlights**
