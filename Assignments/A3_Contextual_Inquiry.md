@@ -23,23 +23,23 @@ _How can I design an user-friendly, effortless app that could strengthen the bon
 
 **In which context would the users do that activity?**
 - Where: A reserved lounge at UCLA
-- Why: 
-- Conditions (Under which conditions): 
+- Why: To enhance the connection with user's family members while being physically away, and try out a new method of remote connection in a form of a collaborative, shared journal. 
+- Conditions: Under the conditions of protected confidentiality of user's responses, thinking/ talking aloud during the activities and interview questions, and video-recordings. 
 
 **What would the users usually do in order to complete that activity?**
 - In order to stay in touch with their distant family members, users would try calling or texting their missed members frequently, converse about simple things like how their days were like to more deeper conversations like current issues, personal problems, advice, and more. They may also utilize various social media platforms to connect with them such as sharing media (pictures and videos) with each other, or engage in online gaming with each other to bond over entertainment activities like such. 
 
 ## 📋 Step 3: Pick an qualitative research method
-The methods used in conducting the user interview were a combination of an interview and participatory observation. The contextual inquiry session consisted of the following components:
+The methods used in conducting the user interview were a combination of an interview and participatory observation. The contextual inquiry session consisted of the following components: 
 
 **Pre-Interview Questions**
-- Background Questions: assess if the interviewee is an ideal participant for the user interview; asking questions regarding family relationship, physical distance between user and their family members, and user's methods of connecting with their family members. 
-- Contextual Inquiry: gain more in-depth insights into user's connection behaviors and methods with their family members; insights into current and primary methods of connections, frequency of connection, content of connection (what they talk/ connect about), and the reasons or motivations behind connection. 
+- Background Questions: Assessed if the interviewee is an ideal participant for the user interview; asking questions regarding family relationship, physical distance between user and their family members, and user's methods of connecting with their family members. 
+- Contextual Inquiry: Gained more in-depth insights into user's connection behaviors and methods with their family members; insights into current and primary methods of connections, frequency of connection, content of connection (what they talk/ connect about), and the reasons or motivations behind connection. 
 
 **Participatory Observation/ User Activity**
-- User's current method of connection: 
-- User's journaling method:
-- User activity: paper journaling ([User Activity Template](https://drive.google.com/file/d/1LUF26T4Kak-N0zmw59svijdqRyMDitAg/view?usp=sharing))
+- User's current method of connection: Assessed how user currently connect with their family members in detail and what similarities/ differences user finds in interacting with each of their family members. 
+- User's journaling method: Assessed how user currently journals in detail such as their journal content and whether user shares it with their family members. 
+- User activity: Paper journaling ([User Activity Template](https://drive.google.com/file/d/1LUF26T4Kak-N0zmw59svijdqRyMDitAg/view?usp=sharing))
   - Had user to make a hypothetical shared family journal, gathering inputs how the user would make use of the future platform; these included what they would name the journal, who they would invite, what content they would write and share about with the journal members, what content they would expect to see from other members, and overall user's satisfaction with the idea and the tasks. 
 
 **Post-Interview Questions**
@@ -47,10 +47,9 @@ The methods used in conducting the user interview were a combination of an inter
 - Wrap-up Questions: Assessed the importance for user in connecting with their family members, user's satisfations with current connection methods, and more.  
 
 ## 📋 Step 4: Plan the details
-Brainstorm the right contexts and narrow down to decide where to visit physically and/or virtually
-- Activities to observation: 
-- Decide how to interact with the users (ex. overt x participatory if it is contextual inquiry)
-- Collecting user data: I plan to use my laptop in order to video record the whole user interview process, while voice recording on one hand using the iphone voice memos application as a back up as well as taking pen-paper observation notes during the interview. 
+- Activities to observation: Interview questions and paper journaling activity.
+- Interacting with the user: Interviewing the user in a form of multiple nested questions, gaining insights on the details.
+- Collecting user data: Using my laptop in order to video record the whole user interview process, while voice recording on one hand using the iphone voice memos application as a back up as well as taking detailed observation notes during the interview with my ipad. 
 - Please find the interview + observation script guide here: [Contextual Inquiry Script Guide](https://docs.google.com/document/d/115sMx7jbDYR3zcwKOwoDYMJbRAUE6nvYk_egV3ZdNo8/edit?usp=sharing)
 
 ## 📋 Step 5: Conduct the research
@@ -82,5 +81,5 @@ After preparing the interview materials, I contacted the ideal participant, sche
 
 
 ## 📋 Step 6: Reflection
-Reflection
+Through this user interview, particularly using the contexual inquiry method, I learned a lot about what the interview should consist of and what a part of a user interview process looks like. Looking back on the interview video, I realized that I could have done better by asking more specific and detailed questions about particular things such as user's current method of connections and difficulties to get more specific insights; a lot of the times, I feel like I asked only the questions I have prepared in my script and did not further ask follow-up questions that could have elicited more specific responses from the user. 
 
