@@ -30,18 +30,21 @@ _How can I design an user-friendly, effortless app that could strengthen the bon
 - In order to stay in touch with their distant family members, users would try calling or texting their missed members frequently, converse about simple things like how their days were like to more deeper conversations like current issues, personal problems, advice, and more. They may also utilize various social media platforms to connect with them such as sharing media (pictures and videos) with each other, or engage in online gaming with each other to bond over entertainment activities like such. 
 
 ## 📋 Step 3: Pick an qualitative research method
-The methods used in conducting the user interview were a combination of an interview and participatory observation.
+The methods used in conducting the user interview were a combination of an interview and participatory observation. The contextual inquiry session consisted of the following components:
 
-**Interview**
+**Pre-Interview Questions**
+- Background Questions: assess if the interviewee is an ideal participant for the user interview; asking questions regarding family relationship, physical distance between user and their family members, and user's methods of connecting with their family members. 
+- Contextual Inquiry: gain more in-depth insights into user's connection behaviors and methods with their family members; insights into current and primary methods of connections, frequency of connection, content of connection (what they talk/ connect about), and the reasons or motivations behind connection. 
 
-**Participatory Interaction**
-- User decides to show how s/he does the activity in their usual way
-- Things that go wrong (breakdowns, need to improve)
-- Things that go smoothly (keep the current solution)
-- User will explain why are things done as they are 
+**Participatory Observation/ User Activity**
+- User's current method of connection: 
+- User's journaling method:
+- User activity: paper journaling ([User Activity Template](https://drive.google.com/file/d/1LUF26T4Kak-N0zmw59svijdqRyMDitAg/view?usp=sharing))
+  - Had user to make a hypothetical shared family journal, gathering inputs how the user would make use of the future platform; these included what they would name the journal, who they would invite, what content they would write and share about with the journal members, what content they would expect to see from other members, and overall user's satisfaction with the idea and the tasks. 
 
-
-[User Activity Template](https://drive.google.com/file/d/1LUF26T4Kak-N0zmw59svijdqRyMDitAg/view?usp=sharing)
+**Post-Interview Questions**
+- Problems: Assessed the difficulties that the user experiences with their current connection methods and possible concerns about the idea of a shared family journal. 
+- Wrap-up Questions: Assessed the importance for user in connecting with their family members, user's satisfations with current connection methods, and more.  
 
 ## 📋 Step 4: Plan the details
 Brainstorm the right contexts and narrow down to decide where to visit physically and/or virtually
