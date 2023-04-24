@@ -52,14 +52,31 @@ Brainstorm the right contexts and narrow down to decide where to visit physicall
 
 ## 📋 Step 5: Conduct the research
 After preparing the interview materials, I contacted the ideal participant, scheduled a time for an interview, and met them at a reserved lounge room at UCLA. Linked below are the digitaized observation notes, representative data file, and the full transcript of the interview.
-> - Please find the full video recording of the interview here: [Contextual Inquiry User Interview](https://youtu.be/72OVV86BN5M)
-> - Please find the transcribed interview here: [Contextual Inquiry User Interview Transcript](https://docs.google.com/document/d/1KGANFbmCY4J4FUPg44TqFym1CGTFQXLztNn8qYWotCw/edit?usp=sharing)
-> - Please find the interview observation notes here: [Contextual Inquiry Observation Notes](https://drive.google.com/file/d/1b7VzxsJlcgVWRzCv1dGN2bsC9_xHgAFR/view?usp=sharing)
-> - Please find the user activity sheet here: [User Activity Response](https://drive.google.com/file/d/1azpsZ_FGM-6hxqdq6JrCab6fWmw79cJO/view?usp=sharing) & [User Activity Template](https://drive.google.com/file/d/1LUF26T4Kak-N0zmw59svijdqRyMDitAg/view?usp=sharing)
+- Please find the full video recording of the interview here: [Contextual Inquiry User Interview](https://youtu.be/72OVV86BN5M)
+- Please find the transcribed interview here: [Contextual Inquiry User Interview Transcript](https://docs.google.com/document/d/1KGANFbmCY4J4FUPg44TqFym1CGTFQXLztNn8qYWotCw/edit?usp=sharing)
+- Please find the interview observation notes here: [Contextual Inquiry Observation Notes](https://drive.google.com/file/d/1b7VzxsJlcgVWRzCv1dGN2bsC9_xHgAFR/view?usp=sharing)
+- Please find the user activity sheet here: [User Activity Response](https://drive.google.com/file/d/1azpsZ_FGM-6hxqdq6JrCab6fWmw79cJO/view?usp=sharing) & [User Activity Template](https://drive.google.com/file/d/1LUF26T4Kak-N0zmw59svijdqRyMDitAg/view?usp=sharing)
 
 ### User Insights
-- Quote #1 thing
-  > (Quote #1)
+- The user's difficulty in their current method of connection (calling/ texting /FaceTiming) involved the differences in time zones, the limitations in technology, and the necessity to use multiple different apps to cater to what each of their family members was most comfortable using.
+  > Definitely as you mentioned, the time zone is different. We have like a three hour difference, so although we still live in the same nation, it feels like a lot of times, they're like a lot further away, because I'll be eating dinner, and they'll be getting ready for bed...I have to calculate what time it is for them, because I don't want to wake them up like an alarm. So definitely having to think about that is kind of a hassle (28:48)
+
+  > Also, a lot of times technology just isn't perfect. So if you're like messaging them, sometimes text messages just won't go through for some reason. Or like your phone will lag so you don't hear everything that someone else on the other line is saying, that's definitely a bit difficult (29:20)
+
+  > Personally, it’s not the most convenient for me because I think that I’m like the person who is usually hopping across different apps to cater to whatever the other person’s comfortable with using (31:29)
+- With the user's primary method of connecting with their family members, which was calling, users found themselves engaging in more of a short, catching-up-like conversations rather than deeper convsersations. 
+  > ...in a more like an everyday situation, I feel like it's usually just like catching-up, kind of giving a recap of what's going on in my life. So I feel like...simple things like that aren't that serious (6:19)
+- The user wished to share about their day, their feelings and emotions, as well as something they want to inform their family members like different weather conditions, with their family members on the shared journal. 
+  > ...in the beginning like first half I would write like a short summary of like my day or like how I was feeling throughout the day, just because I think that, my family is very transparent with, like our emotions (16:21)
+
+  > I would specifically write like something about the weather just because like, my family lives in a different area. So like, I can like inform them about like what my specific day look like (18:45)
+- The user finds a shared journal with their family members useful for remembering or reflecting on past events. 
+  > A lot of times, like you kind of want to remember, like in the future, like what you were doing in the past. And I guess it's kind of like the nostalgia kind of thing (24:01)
+- Some concerns that user had about the idea of keeping a shared journal were the difficulty to consistently write the journal entries and getting used to the digital format of the journal, especially for older people like parents. 
+  > For me, like, I said it was a daily journal, so I personally would expect to be able to read three other entries everyday. But, obviously, life gets in the way, that’s not like you can always do (30:24) 
+
+  > Because my parents are a bit older, they are not as tech-savvy, it might be like a little difficult for them to get used to like the digital format because they’re really, like, analogue – they like to use things that they are already using, so I guess it could be a little difficult for them to kind of learn how to use this kind of whole new app for the sole purpose of journaling (30:48)
+
 
 ## 📋 Step 6: Reflection
 Reflection
