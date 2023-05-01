@@ -43,4 +43,4 @@ The two tasks that are proposed as a design solution in enhancing family connect
 ![Journey Map - RW](https://user-images.githubusercontent.com/116034969/235394222-04051fb7-8304-4167-80ea-814413f67bd6.png)
 
 ## Reflection
-
+In this assignment, I found it quite challenging to come up with two different personas who would be the ideal users of the app; it was difficult to lay out the specific experiences and thought process that these users are having since I'm not themselves, which made me realize that at one point I should just try to "be" them. After the whole process of creating personas, empathy maps, and journey maps for the two specific users, I found it very meaningful how I was able to experience and look at things in these users' shoes, empathizing with how they would feel at certain situations and what they are going through at the moment. In the future, I hope to consider multiple ranges of perspectives to better learn about my user group. 
