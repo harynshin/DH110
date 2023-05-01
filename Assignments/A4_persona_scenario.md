@@ -1,9 +1,13 @@
 # DH110 Assignment 04: Personas & Scenarios by Haryn Shin
 ## Introduction
 **The purpose of UX story telling**
-- 
-**Two tasks you want to propose for the ux design**
-- 
+- The purpose of UX story telling is 
+
+**Two tasks for the ux design**
+
+The two tasks that are proposed as a design solution in enhancing family connection are as follows:
+- First, the user will navigate through and explore the different functionalities of the shared journaling app, thinking their thought process aloud.
+- Second, the user will try to invite their family members to the journal and write a journal entry on the app.
 
 ## Personas: Two Perspectives
 ### Persona 1: Jongseok Park
