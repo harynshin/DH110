@@ -34,11 +34,13 @@ The two tasks that are proposed as a design solution in enhancing family connect
 
 ### Rachel's Scenario:
 **Why is Rachel is using the product?:**
-> Rachel is a 
+> Rachel is a student at Purdue University working towards attaining her Masters and PHD in the field of psychology. She hopes to becomes a professor specifically in the field of social psychology in the future. After the recent passing of her beloved grandma, she feels regretful about how she didn't have a lot of memories with her grandma to look back on since she often didn't record the times she spent with her grandma. She realizes the significant value of recording valuable memories of her and her family and remembering in the future. She decides to do so through taking photos of happy moments spent with her family and uploading them online along with some writings about the family events and how she felt. Since she wants to keep records of valuable family memories, she also invites her family members to contribute to the shared journal as well, making the connection and interaction more fun and meaningful.
 
 **How is Rachel using the product?:**
-> - reaction (likes), comments, click on the photo her mom posted and saves it to her camera roll
+> On a sunny weekend, Rachel plans a family trip to Palm Springs to take time off from her rigorous studies and spend some time with her mom and sister. At Palm Springs, she takes a lot of photos of the scenary, family selfies in pretty destinations, and the amazing barbeque dinner that they all cooked together. After the short trip, Rachel goes on the app and enters her family journaling space by clicking on the journal book icon. She presses the pencil icon and titles the journal entry "Woods family's weekend getaway to Palm Springs". She clicks on the photo icon to choose multiple photos from the trip and upload them to the journal entry. Then, she moves on to the body paragraph and writes about the things that she and her family did, the food they ate, and the overnight conversations they had. She posts the journal entry and posts it. She then scrolls through the feed to see what her mom posted and finds the family selfie that her mom took during the trip. Rachel clicks on the photo and clicks on the save icon to save it to her camera roll. She doesn't forget to like her mom's journal entry and comment "It was so fun!". At last, she scrolls through the feed of her family journal to look back on what her family did a year ago and reads about the time when the family gathered for ThanksGiving. She takes some time to read and look at the photos she posted at that time and presses the "sahre" icon to sahre it to her family groupchat within the app with a message saying, "Look, Emily [her little sister] was so young in this photo!". 
+
 ### Rachel's Journey Map
 ![Journey Map - RW](https://user-images.githubusercontent.com/116034969/235394222-04051fb7-8304-4167-80ea-814413f67bd6.png)
+
 ## Reflection
 
