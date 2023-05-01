@@ -35,6 +35,7 @@ The two tasks that are proposed as a design solution in enhancing family connect
 ### Rachel's Scenario:
 **Why is Rachel is using the product?:**
 > Rachel is a 
+
 **How is Rachel using the product?:**
 > - reaction (likes), comments, click on the photo her mom posted and saves it to her camera roll
 ### Rachel's Journey Map
