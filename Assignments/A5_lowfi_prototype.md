@@ -44,10 +44,13 @@ With the full prototype, I proceeded to use the wireframes that mainly correspon
 _Link (for a more detailed view)_: [Iteration figma link](https://www.figma.com/file/Laf1jYTv7yBGFdt1KSWM9y/dh110-a5-iteration-1-haryn-shin?type=whiteboard&node-id=0%3A1&t=2vpIflc6KXE1aOq7-1)
 
 **Issues/ User feedback**
+What went smoothly:
+What went different/ unexpectedly: 
 - Task 2: user struggled with finding the members add option; the icon should be more clear and explicit rather than just three dots
 - Task 5: read more is not as clear -- user tried to click the journal entry box itself rather than read more
 - Task 5: user chose the go to comments, which is used to just display comments, to write a comment and not the pencil emoji -- repetitive comment options (confusing)
 - Task 4: Gallery sort by owner -- leads to too long of an infinite scroll to find (alternative 1: make a folder/album thing for each member and store their content there, alternative 2: search for user) 
+User feedback:
 
 ### Revised Prototype
 Based on the first prototype testing and user's feedback, I revised the previous prototype as such: 
