@@ -37,12 +37,17 @@ Link (for a more detailed view): [wireframes wireflows figma link](https://www.f
 
 ## Prototype Testing
 ### Iteration #1
-A set of pictures of the prototype in different states, showing it being tested.
 A description of what you would change or design differently based on the feedback you got from the prototype testing
 For each, describe in a sentence or two about what problem the tester encountered, and in another sentence or two how 
 you would address the problem if you were to revise the prototype.
 
-### Iteration #2
+**Issues/ User feedback**
+- Task 5: read more is not as clear -- user tried to click the journal entry box itself rather than read more
+- Task 5: user chose the go to comments, which is used to just display comments, to write a comment and not the pencil emoji -- repetitive comment options (confusing)
+- Task 2: user struggled with finding the members add option; the icon should be more clear and explicit rather than just three dots
+- Task 4: Gallery sort by owner -- leads to too long of an infinite scroll to find (alternative 1: make a folder/album thing for each member and store their content there, alternative 2: search for user) 
+
+### Iteration #2: Revised Prototype
 
 
 ## Reflection
