@@ -19,6 +19,7 @@ In the process of testing the low fidelity prototype, users were instructed to c
 
 ## Wireframes & Wireflow
 The complete wireframes and wireflows are as follows:
+
 ![wireframes + wireflows](https://user-images.githubusercontent.com/116034969/236704614-9887d837-bf73-47ca-b12b-8274e7a00228.svg)
 _Link (for a more detailed view)_: [Wireframes wireflows figma link](https://www.figma.com/file/d58V0amDpYZeiMJq0Q1uKt/dh110-lofi-wireframes%2Fflows-haryn-shin?type=whiteboard&node-id=0%3A1&t=yn49WeZcRLSapcam-1)
 
@@ -38,6 +39,7 @@ _Link (for a more detailed view)_: [Wireframes wireflows figma link](https://www
 ## Prototype Testing
 ### Iteration #1
 With the full prototype, I proceeded to use the wireframes that mainly corresponded to the 5 user tasks that were proposed above during the first prototype testing. The following displays the steps that the user took to complete all the tasks. 
+
 ![Interation 1](https://user-images.githubusercontent.com/116034969/236706204-e1f4f1d8-9680-446d-95cf-b52bc0584d9d.svg)
 _Link (for a more detailed view)_: [Iteration 1 figma link](https://www.figma.com/file/Laf1jYTv7yBGFdt1KSWM9y/dh110-a5-iteration-1-haryn-shin?type=whiteboard&node-id=0%3A1&t=2vpIflc6KXE1aOq7-1)
 
