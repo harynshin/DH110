@@ -1,14 +1,14 @@
 # DH110 Assignment 5: Low Fidelity Prototype by Haryn Shin
 ## Introduction
-**Description of your project** 
+**Description of your project:** 
 
 The current project aims to enhance the connections among family members by providing a shared journaling space where they can comfortably share their life, thoughts, and emotional experiences with each other through journaling. Through such shared, collaborative journaling app, family members can form their own private journaling space and effortlessly interact with each other in a deeper level, especially for users that are physically distant from their family members and users that want to record valuable memories with their family members. 
 
-**Purpose of the low-fidelity prototype**
+**Purpose of the low-fidelity prototype:**
 
 The purpose of the low-fiedlity prototype is to visualize the idea of the app by creating basic outlines and structures, and test their functionalities with a user by observing potential issues and difficulties in navigating through the app. 
 
-**A list of tasks that the prototype supported**
+**A list of tasks that the prototype support:**
 
 In the process of testing the low fidelity prototype, users were instructed to complete the following tasks:
 1. Write a journal entry about your summer plans and upload photos from your photo album to the journal entry
