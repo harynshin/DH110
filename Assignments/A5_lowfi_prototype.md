@@ -37,11 +37,11 @@ _Link (for a more detailed view)_: [Wireframes wireflows figma link](https://www
 - Profile: user can edit their display name, profile picture, and bio description for the specific journal
 
 ## Prototype Testing
-### Iteration #1
+### Iteration
 With the full prototype, I proceeded to use the wireframes that mainly corresponded to the 5 user tasks that were proposed above during the first prototype testing. The following displays the steps that the user took to complete all the tasks. 
 
 ![Interation 1](https://user-images.githubusercontent.com/116034969/236706204-e1f4f1d8-9680-446d-95cf-b52bc0584d9d.svg)
-_Link (for a more detailed view)_: [Iteration 1 figma link](https://www.figma.com/file/Laf1jYTv7yBGFdt1KSWM9y/dh110-a5-iteration-1-haryn-shin?type=whiteboard&node-id=0%3A1&t=2vpIflc6KXE1aOq7-1)
+_Link (for a more detailed view)_: [Iteration figma link](https://www.figma.com/file/Laf1jYTv7yBGFdt1KSWM9y/dh110-a5-iteration-1-haryn-shin?type=whiteboard&node-id=0%3A1&t=2vpIflc6KXE1aOq7-1)
 
 **Issues/ User feedback**
 - Task 2: user struggled with finding the members add option; the icon should be more clear and explicit rather than just three dots
@@ -49,8 +49,9 @@ _Link (for a more detailed view)_: [Iteration 1 figma link](https://www.figma.co
 - Task 5: user chose the go to comments, which is used to just display comments, to write a comment and not the pencil emoji -- repetitive comment options (confusing)
 - Task 4: Gallery sort by owner -- leads to too long of an infinite scroll to find (alternative 1: make a folder/album thing for each member and store their content there, alternative 2: search for user) 
 
-### Iteration #2: Revised Prototype
+### Revised Prototype
 Based on the first prototype testing and user's feedback, I revised the previous prototype as such: 
-
+![revision](https://user-images.githubusercontent.com/116034969/236708684-a613fc9f-d139-42ac-aab2-3db65ff6eb9c.svg)
+_Link (for a more detailed view)_: [Revision figma link](https://www.figma.com/file/dNtU242wc4EdrZkswAQvAO/dh110-revised-prototype-haryn-shin?type=whiteboard&node-id=0%3A1&t=tB4TggkZ4DwXcS8w-1)
 
 ## Reflection
