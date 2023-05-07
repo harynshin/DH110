@@ -40,7 +40,7 @@ _Link (for a more detailed view)_: [Wireframes wireflows figma link](https://www
 ### Iteration
 With the full prototype, I proceeded to use the wireframes that mainly corresponded to the 5 user tasks that were proposed above during the first prototype testing. The following displays the steps that the user took to complete all the tasks. 
 
-![Interation 1](https://user-images.githubusercontent.com/116034969/236706204-e1f4f1d8-9680-446d-95cf-b52bc0584d9d.svg)
+![Interation 1 (1)](https://user-images.githubusercontent.com/116034969/236708807-ef0d3f47-fbd5-402a-bbdf-aa5cc5231b86.svg)
 _Link (for a more detailed view)_: [Iteration figma link](https://www.figma.com/file/Laf1jYTv7yBGFdt1KSWM9y/dh110-a5-iteration-1-haryn-shin?type=whiteboard&node-id=0%3A1&t=2vpIflc6KXE1aOq7-1)
 
 **Issues/ User feedback**
