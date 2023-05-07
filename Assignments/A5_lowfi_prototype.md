@@ -20,7 +20,7 @@ In the process of testing the low fidelity prototype, users were instructed to c
 ## Wireframes & Wireflow
 The complete wireframes and wireflows are as follows:
 ![wireframes + wireflows](https://user-images.githubusercontent.com/116034969/236704614-9887d837-bf73-47ca-b12b-8274e7a00228.svg)
-Link (for a more detailed view): [wireframes wireflows figma link](https://www.figma.com/file/d58V0amDpYZeiMJq0Q1uKt/dh110-lofi-wireframes%2Fflows-haryn-shin?type=whiteboard&node-id=0%3A1&t=yn49WeZcRLSapcam-1)
+_Link (for a more detailed view)_: [Wireframes wireflows figma link](https://www.figma.com/file/d58V0amDpYZeiMJq0Q1uKt/dh110-lofi-wireframes%2Fflows-haryn-shin?type=whiteboard&node-id=0%3A1&t=yn49WeZcRLSapcam-1)
 
 **Wireframes & Wireflow Description**
 - User enters the "Bond" (journal) that they want to enter 
@@ -37,17 +37,18 @@ Link (for a more detailed view): [wireframes wireflows figma link](https://www.f
 
 ## Prototype Testing
 ### Iteration #1
-A description of what you would change or design differently based on the feedback you got from the prototype testing
-For each, describe in a sentence or two about what problem the tester encountered, and in another sentence or two how 
-you would address the problem if you were to revise the prototype.
+With the full prototype, I proceeded to use the wireframes that mainly corresponded to the 5 user tasks that were proposed above during the first prototype testing. The following displays the steps that the user took to complete all the tasks. 
+![Interation 1](https://user-images.githubusercontent.com/116034969/236706204-e1f4f1d8-9680-446d-95cf-b52bc0584d9d.svg)
+_Link (for a more detailed view)_: [Iteration 1 figma link](https://www.figma.com/file/Laf1jYTv7yBGFdt1KSWM9y/dh110-a5-iteration-1-haryn-shin?type=whiteboard&node-id=0%3A1&t=2vpIflc6KXE1aOq7-1)
 
 **Issues/ User feedback**
+- Task 2: user struggled with finding the members add option; the icon should be more clear and explicit rather than just three dots
 - Task 5: read more is not as clear -- user tried to click the journal entry box itself rather than read more
 - Task 5: user chose the go to comments, which is used to just display comments, to write a comment and not the pencil emoji -- repetitive comment options (confusing)
-- Task 2: user struggled with finding the members add option; the icon should be more clear and explicit rather than just three dots
 - Task 4: Gallery sort by owner -- leads to too long of an infinite scroll to find (alternative 1: make a folder/album thing for each member and store their content there, alternative 2: search for user) 
 
 ### Iteration #2: Revised Prototype
+Based on the first prototype testing and user's feedback, I revised the previous prototype as such: 
 
 
 ## Reflection
