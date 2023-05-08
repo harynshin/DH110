@@ -37,7 +37,7 @@ _Link (for a more detailed view)_: [Wireframes wireflows figma link](https://www
 - Profile: user can edit their display name, profile picture, and bio description for the specific journal
 
 ## Prototype Testing
-### Iteration
+### Initial prototype
 With the full prototype, I proceeded to use the wireframes that mainly corresponded to the 5 user tasks that were proposed above during the first prototype testing. The following displays the steps that the user took to complete all the tasks. 
 
 ![Interation 1 (1)](https://user-images.githubusercontent.com/116034969/236708807-ef0d3f47-fbd5-402a-bbdf-aa5cc5231b86.svg)
