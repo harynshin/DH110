@@ -3,6 +3,7 @@
 **Description of your project:** 
 
 The current project aims to enhance the connections among family members by providing a shared journaling space where they can comfortably share their life, thoughts, and emotional experiences with each other through journaling. Through such shared, collaborative journaling app, family members can form their own private journaling space and effortlessly interact with each other in a deeper level, especially for users that are physically distant from their family members and users that want to record valuable memories with their family members. 
+summary of user-research, persona and the features you wrote as usage scenario
 
 **Purpose of the low-fidelity prototype:**
 
