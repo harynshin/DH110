@@ -8,7 +8,7 @@ The current project aims to enhance the connections among family members by prov
 
 The purpose of the low-fiedlity prototype is to visualize the idea of the app by creating basic outlines and structures, and test their functionalities with a user by observing potential issues and difficulties in navigating through the app. 
 
-**A list of tasks that the prototype support:**
+**User tasks for prototype testing:**
 
 In the process of testing the low fidelity prototype, users were instructed to complete the following tasks:
 1. Write a journal entry about your summer plans and upload photos from your photo album to the journal entry
