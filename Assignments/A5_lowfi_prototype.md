@@ -56,7 +56,7 @@ _Link (for a more detailed view)_: [Iteration figma link](https://www.figma.com/
 ### Revised Prototype
 Based on the first prototype testing and user's feedback, I revised the previous prototype as such: 
 
-![revision (1)](https://user-images.githubusercontent.com/116034969/236899486-ac278f06-95ed-474b-b362-4315a126dd8c.svg)
+![revision (2)](https://user-images.githubusercontent.com/116034969/236900746-83e2b312-1154-4c72-864a-0f2fbc2d5892.svg)
 _Link (for a more detailed view)_: [Revision figma link](https://www.figma.com/file/dNtU242wc4EdrZkswAQvAO/dh110-revised-prototype-haryn-shin?type=whiteboard&node-id=0%3A1&t=tB4TggkZ4DwXcS8w-1)
 
 *The box, arrows, and marks that are presented in red show the changes that I have made based on the initial prototype testing
