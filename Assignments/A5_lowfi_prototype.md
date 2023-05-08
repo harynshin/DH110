@@ -38,7 +38,7 @@ _Link (for a more detailed view)_: [Wireframes wireflows figma link](https://www
   - User can search for keywords in the journal and search for journal entries that contain the searched keyword through the magnifying glass icon on the top right corner
   - User can click the three dots to view journal members, invite new member, and the journal name and description
   - User can click the "read more" button under each journal entry on the feed to view the whole text, leave a reaction emoji, and comment on the specific journal entry
-- **Chat**: user can chat with specific members of the journal. Users can also send specific journal entries to each member and talk about them through this chat tab. 
+- **Chat**: user can chat with specific members of the journal. Users can also send specific journal entries to each member and talk about them through this chat tab
 - **Gallery**: user can view all the photos and videos posted along with the journal entries at once like a "family gallery"
   -  user can sort the photos by newest to oldest, oldest to newest, and by the owner of the photos
 - **Profile**: user can edit their display name, profile picture, and bio description for the specific journal
