@@ -43,18 +43,22 @@ With the full prototype, I proceeded to use the wireframes that mainly correspon
 ![Interation 1 (1)](https://user-images.githubusercontent.com/116034969/236708807-ef0d3f47-fbd5-402a-bbdf-aa5cc5231b86.svg)
 _Link (for a more detailed view)_: [Iteration figma link](https://www.figma.com/file/Laf1jYTv7yBGFdt1KSWM9y/dh110-a5-iteration-1-haryn-shin?type=whiteboard&node-id=0%3A1&t=2vpIflc6KXE1aOq7-1)
 
-**Issues/ User feedback**
-What went smoothly:
-What went different/ unexpectedly: 
-- Task 2: user struggled with finding the members add option; the icon should be more clear and explicit rather than just three dots
-- Task 5: read more is not as clear -- user tried to click the journal entry box itself rather than read more
-- Task 5: user chose the go to comments, which is used to just display comments, to write a comment and not the pencil emoji -- repetitive comment options (confusing)
-- Task 4: Gallery sort by owner -- leads to too long of an infinite scroll to find (alternative 1: make a folder/album thing for each member and store their content there, alternative 2: search for user) 
-User feedback:
+**What went smoothly:**
+- Overall, the user was able to complete all five tasks with relative ease. Most of the times, the user was able to easily locate the icons that they were looking for and quickly realize with each icon meant (pencil icon for writing, plus for adding, magnifying glass for searching, etc). For the most part, the low-fidelity prototype was clear and easy to use for the user, especially in terms of how the functionalities were consistent and followed the standards of other typical apps. 
+
+**What went different/ unexpectedly & user feedback:**
+- Some difficulties in testing the prototype was that because these prototypes were digital, the user had to get used to how Figma worked -- for instance, the user had some difficulty in writing out their journal entry using the text tool. Moreover, as the prototypes were low fidelity, displaying the most basic outlines and only the essential features and functionalities, the user had some difficulty in recognizing some simplified buttons or display (for instance, how photos and videos are just shown as boxes with an X on them). Besides these minor adjustment difficulty of the user getting used to the digital low-fidelity prototype on Figma, there were some potential issues that came up with the design of the prototype itself which impeded the user from completing the tasks in ways that I expected, which are as follows.
+- Task 2: user struggled with the task of locating the feature of adding/ inviting members to their journal since the user assumed that the three-dots menu icon would lead to settings. The three-dots icon was not as clear, and it would be better if it was replaced by an icon that is more clear and intuitive to the user in terms of adding new members to the journal.
+- Task 4: Though user was able to complete this task easily, user suggested an important feedback during the task: the current way of displaying photos in the gallery sorted by owner could lead to an infinite scroll, and as photos pile up, users would have to scroll unnecessarily many times to reach to the photos of the particular member that they were looking for. The first alternative to the current way the photos are displayed was to make a folder or an album for each owner and store their content within each of their albums, so that users can click on the owner's album first, then find photos that they uploaded inside their album. A second alternative that I thought of was to make an additional feature on the side where users can search or filter by a specific owner that they were looking for, by, for example, check-boxing that specific owner from the side bar. 
+- Task 5: Instead of clicking the "read more" button to view a member's full journal entry, the user tried to click the journal entry box itself in order to read the full text. Such action of the user suggested that the "read more" button is not as clear to the user and should be more visible and explicit, and also that I should give users the freedom to click on the journal entry box and still lead to the wanted outcome of viewing the full journal entry. 
+- Task 5: While trying to write a comment on a member's journal entry, user was confused how there were two comment options "Go to comments" and the pencil icon to write a comment. Originally, the idea was that if user clicks on "Go to comments", they would be able to view all the comments on a separate page, while if they click the pencil icon, they would be able to write a comment. Being confused by the two options, user chose the "Go to comments" option to write their comment and not the pencil icon. This suggested that there were two unnecessarily repetitive comment options on the current prototype and should fix it by eliminating one of the comment options and make it more clear to the user in terms of how to write a comment on a member's journal entry.
 
 ### Revised Prototype
 Based on the first prototype testing and user's feedback, I revised the previous prototype as such: 
-![revision](https://user-images.githubusercontent.com/116034969/236708684-a613fc9f-d139-42ac-aab2-3db65ff6eb9c.svg)
+
+![revision (1)](https://user-images.githubusercontent.com/116034969/236899486-ac278f06-95ed-474b-b362-4315a126dd8c.svg)
 _Link (for a more detailed view)_: [Revision figma link](https://www.figma.com/file/dNtU242wc4EdrZkswAQvAO/dh110-revised-prototype-haryn-shin?type=whiteboard&node-id=0%3A1&t=tB4TggkZ4DwXcS8w-1)
+
+*The box, arrows, and marks that are presented in red show the changes that I have made based on the initial prototype testing
 
 ## Reflection
