@@ -1,12 +1,12 @@
 # DH110 Assignment 5: Low Fidelity Prototype by Haryn Shin
 ## Introduction
-**Description of your project:** 
+**Description of the project:** 
 
-The current project aims to enhance the connections among family members by providing a shared journaling space where they can comfortably share their life, thoughts, and emotional experiences with each other through journaling. Through such shared, collaborative journaling app, family members can form their own private journaling space and effortlessly interact with each other in a deeper level, especially for users that are physically distant from their family members and users that want to record valuable memories with their family members. 
+The current project aims to enhance the connections among family members by providing a shared journaling space where they can comfortably share their life, thoughts, and emotional experiences with each other through journaling. Through such shared, collaborative journaling app, family members can form their own private journaling space and interact with each other in a deeper level.
 
-Through user-research, I found that there could be two major purposes for the shared journaling app that I intend to create: first, users who are physically distant from their family members who yearn to stay in touch and keep the connections strong; second, users who want to effortlessly keep records of their valuable memories spend with their family. Based on these two user groups, I created two personas, one pertaining to the first user group and the other pertaining to the second user group described above. 
+Through user-research, I found that there could be two major purposes for the shared journaling app that I intend to create: first, users who are physically distant from their family members who yearn to stay in touch and keep the connections strong; second, users who want to effortlessly keep records of their valuable memories spent with their family. Based on these two user groups, I created two personas, one pertaining to the first user group and the other pertaining to the second user group described above. 
 
-You can find the complete user research process, the personas, their respective scenarios, and journey maps through these links: 
+You can find the complete user research process, personas, their respective scenarios, and journey maps through these links: 
 - [User Research: Contextual Inquiry](https://github.com/harynshin/DH110-HARYNSHIN/blob/main/Assignments/A3_Contextual_Inquiry.md)
 - [Personas & Scenarios](https://github.com/harynshin/DH110-HARYNSHIN/blob/main/Assignments/A4_persona_scenario.md)
 
