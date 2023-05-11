@@ -1,4 +1,4 @@
-# DH110 Assignment 5: Low Fidelity Prototype by Haryn Shin
+# DH110 Assignment 05: Low Fidelity Prototype by Haryn Shin
 ## Introduction
 **Description of the project:** 
 
