@@ -1,3 +1,3 @@
-# DH110 Assignment 6: Interface Design System by Haryn Shin
+# DH110 Assignment 06: Interface Design System by Haryn Shin
 ## Introduction
 
