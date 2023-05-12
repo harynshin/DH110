@@ -1,5 +1,6 @@
 # DH110 Assignment 06: Interface Design System by Haryn Shin
 ## Description of project
+The current project aims to enhance the connections among family members by providing a shared journaling space where they can comfortably share their life, thoughts, and emotional experiences with each other through journaling. Through such shared, collaborative journaling app, family members can form their own private journaling space and interact with each other in a deeper level.
 
 ## Screen design
 ### Layout
