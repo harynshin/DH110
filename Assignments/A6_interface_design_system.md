@@ -12,7 +12,7 @@
 ### Color variations
 ![Colors (1)](https://github.com/harynshin/DH110-HARYNSHIN/assets/116034969/d9fa0c7e-fa09-4530-97b9-8fe2b09e2b4d)
 ### Final interface: Light mode & Dark mode
-![Final](https://github.com/harynshin/DH110-HARYNSHIN/assets/116034969/51ee3b61-a988-4c70-b8c9-fd95eafc11aa)
+![Final (1)](https://github.com/harynshin/DH110-HARYNSHIN/assets/116034969/875e32b8-5786-4c54-9129-4e0ada3bcccb)
 
 ## Impression test
 ## Accessibility (color-contrast) check
