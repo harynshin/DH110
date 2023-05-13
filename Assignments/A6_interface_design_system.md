@@ -42,7 +42,16 @@ Then, I moved on to test the color contrast for different elements or components
 ![](element-ccc2.png)
 ![](element-ccc3.png)
 
-## Final interface: Light mode & Dark mode
+### Darkmode color contrast check
+Similarily, I conducted a color contrast check on the dark mode version of the screen:
+
+![](darkmode_colortest1.png)
+![](darkmode_colortest2.png)
+
+## Initial final interface (before impression test) : Light mode & Dark mode
+Here are the intial final interface screens before the impression test for both light mode and dark mode of the screens. On these final screens, before moving on to the impression test, I added more specific context on the journal entries rather than using dummy texts (Lorum ipsum) in order to give a more realistic feel and prevent the impression test user from potentially getting confused by the meaningless dummy texts that I used when testing out different variations of the screen. 
+
+![](initial_final.svg)
 
 
 ## Impression test
