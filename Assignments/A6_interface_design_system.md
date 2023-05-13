@@ -7,6 +7,8 @@ In this interface design process, I converted one of the low fidelity screens in
 In terms of thee interface design process, I primarily used Figma to come up with different variations of the "Feeds" tab of my app, where users can mainly view family members' recent journal entries. With Figma, I made different variations in terms of typography, shapes and colors to test which design schemes could best serve the purpose of the shared, collaborative family journaling app. The dimensions of the screen frame I used was the standard Iphone 14 screen. For typographic variations, I made use of Google Fonts and the Figma plugin _Better Font Picker_ to test out different fonts, and for shapes and colors respectively, I adjusted the roundness of the element boxes as well as tested out different color schemes. The Screen design section that follows below details the information about the variations as well as the visuals. 
 
 ## Screen design
+>Please find my complete interface design Figma file at this link: [Interface Design Figma file](https://www.figma.com/file/4twDn9DJpKNgK0MMNSx9Yk/dh110-assignment-6?type=design&node-id=0%3A1&t=4YT8UTI12ZmR2NCn-1)
+
 ### Layout
 >Grid 12px; 4 Columns; Stretch; Margin 24; Gutter 18
 
