@@ -4,19 +4,29 @@ The current project aims to enhance the connections among family members by prov
 
 ## Screen design
 ### Layout
-<img width="475" alt="Screenshot 2023-05-11 at 11 51 56 PM" src="https://github.com/harynshin/DH110-HARYNSHIN/assets/116034969/2a1c3113-b693-4d27-a0d7-d56ac65166f5">
+![](layout.svg)
 
 ### Typography
-![Typography (1)](https://github.com/harynshin/DH110-HARYNSHIN/assets/116034969/97769fa2-5341-4dcc-8030-2500c3706e5f)
+![](typography.svg)
 ### Shape variations
-![shapes (1)](https://github.com/harynshin/DH110-HARYNSHIN/assets/116034969/169db77c-e2f0-4f57-b61f-315793652ca1)
+![](shape-variations.svg)
 ### Color variations
-![Colors (1)](https://github.com/harynshin/DH110-HARYNSHIN/assets/116034969/d9fa0c7e-fa09-4530-97b9-8fe2b09e2b4d)
-### Final interface: Light mode & Dark mode
-![Final (1)](https://github.com/harynshin/DH110-HARYNSHIN/assets/116034969/875e32b8-5786-4c54-9129-4e0ada3bcccb)
+![](color-variations.svg)
+## Accessibility (color-contrast) check
+### Text color contrast check 
+First, I used the Figma plug in A11y - Color Contrast Checker to check the color accessibility for the text content on the screen. Initially, there were quite a few errors so I had to adjust the colors of the texts to a darker color than I had for the previous design. After adjusting some lightness details as such, I was able to fix all the errors and meet the AAA color contrast requirements
+
+![](text-ccc.png)
+
+### Element color contrast check
+![](element-ccc1.png)
+![](element-ccc2.png)
+![](element-ccc3.png)
+
+## Final interface: Light mode & Dark mode
+
 
 ## Impression test
-## Accessibility (color-contrast) check
 ## Design System
 
 
