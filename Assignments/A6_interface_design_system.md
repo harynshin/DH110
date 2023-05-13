@@ -56,6 +56,18 @@ Here are the intial final interface screens before the impression test for both 
 
 
 ## Impression test
+Please find the video recording of the complete impression test at this link: [Impression test video]()
+
+### Summary of findings
+
 ## Design System
+### Typeface family & size
+### Color scheme
+- Background: 
+- Primary (default text): 
+- Focus (ex. button): 
+
+### Layout grid & spacing
+
 
 
