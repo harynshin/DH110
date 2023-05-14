@@ -86,6 +86,9 @@ Below are the revised final interfaces based on the results of the impression te
 
 ![](final_final.svg)
 
+### Design system overview
+<img width="1603" alt="Screenshot 2023-05-13 at 9 52 28 PM" src="https://github.com/harynshin/DH110-HARYNSHIN/assets/116034969/35cba2d5-b92b-4c16-a568-323d29994121">
+
 ### Typeface family & size
 ### Color scheme
 - Background: 
