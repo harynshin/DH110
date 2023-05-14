@@ -87,15 +87,32 @@ Below are the revised final interfaces based on the results of the impression te
 ![](final_final.svg)
 
 ### Design system overview
-<img width="1603" alt="Screenshot 2023-05-13 at 9 52 28 PM" src="https://github.com/harynshin/DH110-HARYNSHIN/assets/116034969/35cba2d5-b92b-4c16-a568-323d29994121">
+<img width="1508" alt="Screenshot 2023-05-14 at 12 59 14 PM" src="https://github.com/harynshin/DH110-HARYNSHIN/assets/116034969/2e3e89b0-e0d7-417a-94a1-edc5c5fc2e50">
 
 ### Typeface family & size
+- Header: "Quicksand", SemiBold; 20px, 24 line height, 2px letter-spacing 
+- Entry/ Title: "Poppins", Regular; 17px, 20 line height, 0px letter-spacing
+- Entry/ Body: "Poppins", Regular; 16px, 25 line height, 0px letter-spacing
+- Entry/ Content Date: "Poppins", Regular; 14px, 20 line height, 0px letter-spacing
+- Button/ Date text: "DM Sans", Medium; 14px, 20 line height, 0px letter-spacing
+- "Read more" button: "DM Sans", Medium; 14px, 24 line height, 0px letter-spacing
+- User name "Poppins", Regular; 12px, 24 line height, 0px letter-spacing
+- Icon labels "DM Sans", Medium; 11px, 24 line height, 0px letter-spacing
+
+Reasoning: 
+
 ### Color scheme
-- Background: 
-- Primary (default text): 
-- Focus (ex. button): 
+- Background (light peach) : #FFF9F4 
+- Primary/ default text (dark gray) : #353535 (Header text, top icons)
+- Focus/ buttons (light orange) : #FEC693 (Feed, date button, pencil icon box)
+- Entry box (White): #FFFFFF
+- Other menu icons: #96C0FF (light blue)/ #A7D2C1 (light green)/ #DCDCDC (light gray)
+
+Reasoning: 
 
 ### Layout grid & spacing
+- Grid 12px; 4 Columns; Stretch; Margin 24; Gutter 18
 
+Reasoning: 
 
 
