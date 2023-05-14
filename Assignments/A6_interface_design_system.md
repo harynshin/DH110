@@ -90,14 +90,14 @@ Below are the revised final interfaces based on the results of the impression te
 <img width="1508" alt="Screenshot 2023-05-14 at 12 59 14 PM" src="https://github.com/harynshin/DH110-HARYNSHIN/assets/116034969/2e3e89b0-e0d7-417a-94a1-edc5c5fc2e50">
 
 ### Typeface family & size
-- Header: "Quicksand", SemiBold; 20px, 24 line height, 2px letter-spacing 
-- Entry/ Title: "Poppins", Regular; 17px, 20 line height, 0px letter-spacing
-- Entry/ Body: "Poppins", Regular; 16px, 25 line height, 0px letter-spacing
-- Entry/ Content Date: "Poppins", Regular; 14px, 20 line height, 0px letter-spacing
-- Button/ Date text: "DM Sans", Medium; 14px, 20 line height, 0px letter-spacing
-- "Read more" button: "DM Sans", Medium; 14px, 24 line height, 0px letter-spacing
-- User name "Poppins", Regular; 12px, 24 line height, 0px letter-spacing
-- Icon labels "DM Sans", Medium; 11px, 24 line height, 0px letter-spacing
+- Header: "Quicksand", SemiBold; 20pt, 24 line height, 2px letter-spacing 
+- Entry/ Title: "Poppins", Regular; 17pt, 20 line height, 0px letter-spacing
+- Entry/ Body: "Poppins", Regular; 16pt, 25 line height, 0px letter-spacing
+- Entry/ Content Date: "Poppins", Regular; 14pt, 20 line height, 0px letter-spacing
+- Button/ Date text: "DM Sans", Medium; 14pt, 20 line height, 0px letter-spacing
+- "Read more" button: "DM Sans", Medium; 14pt, 24 line height, 0px letter-spacing
+- User name "Poppins", Regular; 12pt, 24 line height, 0px letter-spacing
+- Icon labels "DM Sans", Medium; 11pt, 24 line height, 0px letter-spacing
 
 Reasoning: For the header, "Quicksand" gave off a cute while comforting expression, which matched the idea of a relaxing and soothing journaling app. Rather than integrating a formal-looking, hard fonts that informational apps tend to use, I chose to use more relaxed, rounded fonts that are still readable and legible to all users. "Poppins" closely matched the ideal font that I had in mind for the app, and thus is widely used throughout the app such as in the entries and other texts. For smaller texts such as button and icon labels, I used the "DM Sans" font, which is one of the standard fonts, in order to differentiate these labels from entry-related texts or elements, but in a way that is not too different to the point that is distracting to the users. Using these fonts, I aimed to provide a comforting, relaxed journaling space while also having a clean look so that the entries look well-organized. 
 
@@ -113,6 +113,6 @@ Reasoning: I chose to incorporate a warm color scheme for the "Feed" tab, where 
 ### Layout grid & spacing
 - Grid 12px; 4 Columns; Stretch; Margin 24; Gutter 18
 
-Reasoning: 
+Reasoning: This layout grid set up is a same set up that I had for my past experience is user interface design, which automatically led me to use it for this project as well. Having 4 columns is helpful in positioning and centering the 4 different menu bar icons, and based on the set up of these icons, I went about designing other elements in line with their respective grids. Adjusting the spacings by, for instance, having margins on the side of about 24 px looked nice and easier for the eyes, and prevented from making the information look cluttered. Following the layout and grid set up was helpful in sizing the icons as well as adjusting the spacing for different elements in my interface design. 
 
 
