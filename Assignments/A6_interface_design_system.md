@@ -54,13 +54,38 @@ Here are the intial final interface screens before the impression test for both 
 
 ![](initial_final.svg)
 
-
 ## Impression test
-Please find the video recording of the complete impression test at this link: [Impression test video]()
+Please find the audio recording of the complete impression test at this link: [Impression test audio recording](https://drive.google.com/file/d/1x_ea6fDCZLwngMJR7GtbX_Zw-opnc665/view?usp=sharing)
+Please find the trascript of the complete impression test at this link: [Impression test transcript](https://drive.google.com/file/d/129cVBV48B3ODtsOsWZCRpTqGhdZwc_Yp/view?usp=sharing)
 
 ### Summary of findings
+#### Pros
+- The color scheme is nice, giving a soft and soothing impression of the app which well matches a relaxing nature of a journaling app.
+  > I really like the color scheme, or like, kind of it's very soft and warm, so it's more inviting, and it's soothing (0:34)
+- The design is aesthetic and simple, and the font is very readable.
+  > Design is also very aesthetic and simple. I like the font. It seems like a Sans font, and it's very readable. And it's also very  aesthetic and cohesive with the general theme of the app (1:19)
+- The menu bar icons are clear as to what they would lead the user to.
+  > I also like the menu bar, I really like the icons and how they're very clear on where they are going to lead me to (1:01)
+- The darkmode screen looks accessible, while also carrying the original color scheme and not losing the identity of the app.
+  > I really liked the dark mode I feel like it makes it more accessible especially like if I were to use this application at night, it would definitely be easier on my eyes if I was texting and my typing on my phone in the dark (4:06)
+
+  > I like how you still kept the colors for "Feed", "Chat", and "Gallery" because it still like shows the general color scheme identity of the app. And I feel like if you were to change the colors too then it would kind of, not destroy but like really alter the color scheme of the app so I like how you kept that (4:06)
+- The user was able to correctly point to what each features and functions is supposed to do on the screen.
+
+#### Cons/ sources of improvement
+- The journal entry text is too small and text-heavy considering that the feed shows the previews of the full journal entries. The date text on the date button is also too small.
+  > I feel like the entry text might be too small. And it shows a lot of the entry, considering that it's just a preview. So I guess one thing that could be improved would be to make it more concise and the text to be bigger, if it's just going to be a preview (1:58)
+
+  > Since this is a journaling app, and you're going to be having a lot of entries per day, or just having a lot of entries in general, I might want to go look at an entry written on a specific date. So I feel like it'll be helpful if the date is a little bigger, so it's more readable and I could clearly see what entries I wrote on each day (2:38)
+
+Taking these insights into consideration, I revised my original screens to create a more accomodating design of the screen, especially in terms of the sizing of the text content. 
 
 ## Design System
+### Final Interfaces
+Below are the revised final interfaces based on the results of the impression test. Although only minor changes were made regarding the text sizes and spacings, it looks more clear, concise, and better to look at as the texts are less cluttered and and more readable than the previous screens. 
+
+![](final_final.svg)
+
 ### Typeface family & size
 ### Color scheme
 - Background: 
