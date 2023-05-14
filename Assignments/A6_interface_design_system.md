@@ -99,7 +99,7 @@ Below are the revised final interfaces based on the results of the impression te
 - User name "Poppins", Regular; 12px, 24 line height, 0px letter-spacing
 - Icon labels "DM Sans", Medium; 11px, 24 line height, 0px letter-spacing
 
-Reasoning: 
+Reasoning: For the header, "Quicksand" gave off a cute while comforting expression, which matched the idea of a relaxing and soothing journaling app. Rather than integrating a formal-looking, hard fonts that informational apps tend to use, I chose to use more relaxed, rounded fonts that are still readable and legible to all users. "Poppins" closely matched the ideal font that I had in mind for the app, and thus is widely used throughout the app such as in the entries and other texts. For smaller texts such as button and icon labels, I used the "DM Sans" font, which is one of the standard fonts, in order to differentiate these labels from entry-related texts or elements, but in a way that is not too different to the point that is distracting to the users. Using these fonts, I aimed to provide a comforting, relaxed journaling space while also having a clean look so that the entries look well-organized. 
 
 ### Color scheme
 - Background (light peach) : #FFF9F4 
@@ -108,7 +108,7 @@ Reasoning:
 - Entry box (White): #FFFFFF
 - Other menu icons: #96C0FF (light blue)/ #A7D2C1 (light green)/ #DCDCDC (light gray)
 
-Reasoning: 
+Reasoning: I chose to incorporate a warm color scheme for the "Feed" tab, where users can view journal entries that were written on the specific family journal. A light peach color scheme matched the soothing, warm look that I wanted to display, which was used as the background color. In order to keep this color scheme, I chose a darker version of the background color, or light orange in this case, for the focus colors such as the buttons and the "Feed" tab icon label to let users know that they are currently on the "Feed" page. For all texts, I used a very dark gray color so that users are able to clearly see all texts and labels. Though I was originally debating using straight black (#000000) color for all texts as well, but the contrast was too high, especially for the entry boxes, since it led to a black text on a purely white background. Moreover, the straight black texts were giving off a very strong impression rather than a soothing one, which is one of the reasons why I deviated from using a pure black color for the texts and adjusted to a slightly lighter color than black.
 
 ### Layout grid & spacing
 - Grid 12px; 4 Columns; Stretch; Margin 24; Gutter 18
