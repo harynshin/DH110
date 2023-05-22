@@ -4,7 +4,12 @@
 The current project "Bondily" aims to enhance the connections among family members by providing a shared journaling space where they can comfortably share their life, thoughts, and emotional experiences with each other through journaling. Through such shared, collaborative journaling app, family members can form their own private journaling space and interact with each other in a deeper level.
 
 ### Overview of Interactive Prototype
-The purpose and process of this interactive prototype phase (3-5 sentences)
+#### Final Interactive Prototype
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F4twDn9DJpKNgK0MMNSx9Yk%2FDH110-PROJECT%3Ftype%3Ddesign%26node-id%3D147-22284%26scaling%3Dscale-down%26page-id%3D147%253A22283%26starting-point-node-id%3D147%253A22284" allowfullscreen></iframe>
+
+
+#### Purpose and Process of the interactive prototype
+(3-5 sentences)
 
 ## Tasks
 The following lists the tasks that are supported by my interactive prototypes. These tasks are mostly based on the tasks that were presented for [Low Fidelity Prototype](https://github.com/harynshin/DH110-HARYNSHIN/blob/main/Assignments/A5_lowfi_prototype.md), with a few changes to match the updates that I have made since. 
@@ -56,8 +61,11 @@ The participant was able to complete all of the tasks with relative ease, and if
 - Task 4: Though the participant was able to achieve the expected outcome at the end, the participant showed some struggles in getting to the correct outcome. The participant first tried going to the Gallery tab, but thought that they would not be able to see the expected outcome of finding photos posted by "Mom", and retrieved back to the Feed tab and tried clicking on the user "Mom" from the feed tab. After realizing that such action did not lead to anything, they then tried clicking on the Gallery tab again, found and tried clicking on the the "Sort by" button, and successfully found their way through completing the task of finding the gallery album for the specific user "Mom". The participant was able to complete the "save the photo to camera roll" with great ease, which suggests that the save icon is clear as to what functions it serves. Nevertheless, given the challenges they faced during the first part of getting to access "Mom"'s photos, I realized that the way to complete the task should be more clear and there should also be an option in which users can access the specific user's photos by clicking on the specific user's profile icon from the Feed, thereby allowing multiple ways for users to achieve this goal of accessing photos posted by a particular user.
 
 ## Revised High Fidelity Prototype
-Based on insights and feedback gathered by the prototype testing above, I revised the prototype to account for more user freedom in performing certain tasks, better alignments, and fix minor design details. 
+Based on insights and feedback gathered by the prototype testing above, I revised the prototype to account for more user freedom in performing certain tasks, better alignments, and fix minor design details. The major changes are 1) allowing users to click on a specific member's profile icon to access their photos on the Gallery page, 2) A new pop-up screen that pops up after user clicks on the back arrow key when in the process of writing a journal entry that asks "Save as draft?" to avoid accidental clicks on going back and losing the journal entry that the user was workng on, 3) connecting more elements with one another in the prototype so that though it is a prototype, the user can freely navigate through and retrieve back if an unwanted action was made.
+The final revised prototype can be found at this link: [Final Hifi Prototype](https://www.figma.com/proto/4twDn9DJpKNgK0MMNSx9Yk/DH110-PROJECT?type=design&node-id=147-22284&scaling=scale-down&page-id=147%3A22283&starting-point-node-id=147%3A22284)
+The Figma file for the revised prototype can be found at this link: [Final Hifi Figma file](https://www.figma.com/file/4twDn9DJpKNgK0MMNSx9Yk/DH110-PROJECT?type=design&node-id=147-22283&t=YxUQ5wkCxl0L7aZm-0)
 
+<img width="820" alt="Screenshot 2023-05-22 at 1 15 13 PM" src="https://github.com/harynshin/DH110-HARYNSHIN/assets/116034969/3ac623ac-fb5d-4025-a657-d8d54eacb28f">
 
 
 
