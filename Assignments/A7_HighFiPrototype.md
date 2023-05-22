@@ -4,8 +4,9 @@
 The current project "Bondily" aims to enhance the connections among family members by providing a shared journaling space where they can comfortably share their life, thoughts, and emotional experiences with each other through journaling. Through such shared, collaborative journaling app, family members can form their own private journaling space and interact with each other in a deeper level.
 
 ### Overview of Interactive Prototype
-#### Final Interactive Prototype
-[![Final Hifi Prototype](Assignments/proto_cover.png)](https://www.figma.com/proto/4twDn9DJpKNgK0MMNSx9Yk/DH110-PROJECT?type=design&node-id=147-22284&scaling=scale-down&page-id=147%3A22283&starting-point-node-id=147%3A22284)
+#### Final Interactive Prototype 
+_Click on the preview image below to access the complete High Fidelity Prototype in a new tab._
+[![Final Hifi Prototype](proto_cover.png)](https://www.figma.com/proto/4twDn9DJpKNgK0MMNSx9Yk/DH110-PROJECT?type=design&node-id=147-22284&scaling=scale-down&page-id=147%3A22283&starting-point-node-id=147%3A22284)
 
 
 #### Purpose and Process of the Interactive Prototype
@@ -46,8 +47,8 @@ Here is the full Prototype flow for all screens, and the corresponding Figma fil
 
 ## Interactive Prototype
 - Please find the Google forms I used for the prototype testing at this link: [Bondily Prototype Testing Form](https://forms.gle/Rzit5nMrEh4oNDuj9)
+- > Note: Dr. Cho, please find the editor view of this Google form at [this link](https://docs.google.com/forms/d/1yCw6OvopC0dpA8YePValcfhZxSwqdwUbBZc0S7pqs-g/edit)
 - Please find the full interactive prototype  used for all tasks at this link: [Hifi Interactive Prototype link](https://www.figma.com/proto/4twDn9DJpKNgK0MMNSx9Yk/DH110-PROJECT?type=design&node-id=49-898&scaling=scale-down&page-id=49%3A244&starting-point-node-id=49%3A898&show-proto-sidebar=1)
-
 
 ## Prototype Testing: Cognitive Walkthrough
 Please find the prototype testing video at this link: [Hifi Prototype Testing Video](https://drive.google.com/file/d/1LQV23WYDLlAtmLXnBI3KohMIcef806T7/view?usp=sharing)
