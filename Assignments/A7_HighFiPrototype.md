@@ -30,6 +30,7 @@ The following breaks down the wireframes and wireflows for each task.
 ![Task 4](https://github.com/harynshin/DH110-HARYNSHIN/assets/116034969/e9d3e9b8-04d2-4cc2-b949-8ffa655f396c)
 
 Here is the full Prototype flow for all screens, and the corresponding Figma file can be found at this link: [Hifi Prototype Figma file](https://www.figma.com/file/4twDn9DJpKNgK0MMNSx9Yk/DH110-PROJECT?type=design&node-id=49%3A244&t=K4U9TsbapQpZIMps-1)
+<img width="937" alt="Screenshot 2023-05-21 at 5 31 40 PM" src="https://github.com/harynshin/DH110-HARYNSHIN/assets/116034969/944bc891-23cf-41f9-82a3-8c9a1ceb83c0">
 
 ## Interactive Prototype
 - [Task 1: Prototype]()
