@@ -5,11 +5,18 @@ The current project "Bondily" aims to enhance the connections among family membe
 
 ### Overview of Interactive Prototype
 #### Final Interactive Prototype
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F4twDn9DJpKNgK0MMNSx9Yk%2FDH110-PROJECT%3Ftype%3Ddesign%26node-id%3D147-22284%26scaling%3Dscale-down%26page-id%3D147%253A22283%26starting-point-node-id%3D147%253A22284" allowfullscreen></iframe>
+[![Final Hifi Prototype](Assignments/proto_cover.png)](https://www.figma.com/proto/4twDn9DJpKNgK0MMNSx9Yk/DH110-PROJECT?type=design&node-id=147-22284&scaling=scale-down&page-id=147%3A22283&starting-point-node-id=147%3A22284)
 
 
-#### Purpose and Process of the interactive prototype
-(3-5 sentences)
+#### Purpose and Process of the Interactive Prototype
+The purpose of this interactive prototype is to test out the functionality of the various components, features, and aspects of the screens. Being a high fidelity interactive prototype, this closely demonstrates what the end product would look like as well as how the user will be navigating through different aspects of the app. 
+
+The process of constructing the interactive prototype involved the following stages: 
+  1) Designing the high fidelity versions of all screens needed
+  2) Deriving lists of tasks that the prototype would support, 
+  3) Prototyping by connecting each screen with one another based on the task orders
+  4) conducting a round of prototype testing with a real user, gathering feedback and analyzing insights
+  5) Revising the current prototype with accordance to user feedback and issues that were discovered during the the prototype testing. 
 
 ## Tasks
 The following lists the tasks that are supported by my interactive prototypes. These tasks are mostly based on the tasks that were presented for [Low Fidelity Prototype](https://github.com/harynshin/DH110-HARYNSHIN/blob/main/Assignments/A5_lowfi_prototype.md), with a few changes to match the updates that I have made since. 
@@ -54,7 +61,7 @@ In the process of prototype testing, I aimed to assess the following 4 questions
 For each of the user tasks, I directly asked the user about these questions, assessing if they were able to complete the tasks without much challenges, and if there were challenges, what issues they came across while navigating through the interactive prototype.  
 
 ### Summary of Findings
-The participant was able to complete all of the tasks with relative ease, and if anything, challenges came from the unfamiliarity with how Figma prototypes work; the participant was confused on how to navigate through specific sections of the prototype because it prevented them from clicking certain buttons or tabs, and some of the responses are pre-selected or pre-written for the sake of the prototype. Aside from this functional limitation of the prototype itself, the participant provided me with some good insights for each task during the process of the prototype testing.
+My participant user was able to complete all of the tasks with relative ease, and if anything, challenges came from the unfamiliarity with how Figma prototypes work; the participant was confused on how to navigate through specific sections of the prototype because it prevented them from clicking certain buttons or tabs, and some of the responses are pre-selected or pre-written for the sake of the prototype. Aside from this functional limitation of the prototype itself, the participant provided me with some good insights for each task during the process of the prototype testing.
 - Task 1: The participant was able to complete this task without any difficulty, which suggests that the prototype is clear as to how to invite or add a member to a specific journal.
 - Task 2: The participant had some difficulty in completing the task since they weren't very familiar with how the prototype works (for example, the blue highlights show them where they click on), but other than the functional difficulty, the particpant was able to understand the process of writing a journal entry in the app, and was able to complete the task thoroughly. Though there are some limitations as to the working of the prototype system, I realized that I should make the prototype as smooth as possible with many ways to retrieve back to the previous screens in case the user makes mistakes, which was one of the feedback that the participant provided. 
 - Task 3: The participant mentioned that this task was the easiest to complete, which suggests that the prototype is clear as to how to search for keywords in the journal. 
@@ -65,7 +72,8 @@ Based on insights and feedback gathered by the prototype testing above, I revise
 - The final revised prototype can be found at this link: [Final Hifi Prototype](https://www.figma.com/proto/4twDn9DJpKNgK0MMNSx9Yk/DH110-PROJECT?type=design&node-id=147-22284&scaling=scale-down&page-id=147%3A22283&starting-point-node-id=147%3A22284)
 - The Figma file for the revised prototype can be found at this link: [Final Hifi Figma file](https://www.figma.com/file/4twDn9DJpKNgK0MMNSx9Yk/DH110-PROJECT?type=design&node-id=147-22283&t=YxUQ5wkCxl0L7aZm-0)
 
-(paste the screenshot of the prototype interaction)
+<img width="923" alt="Screenshot 2023-05-22 at 4 10 30 PM" src="https://github.com/harynshin/DH110-HARYNSHIN.github.io/assets/116034969/1237f5ec-9748-4c73-a38a-f1463db5b225">
+
 
 
 
