@@ -62,8 +62,8 @@ The participant was able to complete all of the tasks with relative ease, and if
 
 ## Revised High Fidelity Prototype
 Based on insights and feedback gathered by the prototype testing above, I revised the prototype to account for more user freedom in performing certain tasks, better alignments, and fix minor design details. The major changes are 1) allowing users to click on a specific member's profile icon to access their photos on the Gallery page, 2) A new pop-up screen that pops up after user clicks on the back arrow key when in the process of writing a journal entry that asks "Save as draft?" to avoid accidental clicks on going back and losing the journal entry that the user was workng on, 3) connecting more elements with one another in the prototype so that though it is a prototype, the user can freely navigate through and retrieve back if an unwanted action was made.
-The final revised prototype can be found at this link: [Final Hifi Prototype](https://www.figma.com/proto/4twDn9DJpKNgK0MMNSx9Yk/DH110-PROJECT?type=design&node-id=147-22284&scaling=scale-down&page-id=147%3A22283&starting-point-node-id=147%3A22284)
-The Figma file for the revised prototype can be found at this link: [Final Hifi Figma file](https://www.figma.com/file/4twDn9DJpKNgK0MMNSx9Yk/DH110-PROJECT?type=design&node-id=147-22283&t=YxUQ5wkCxl0L7aZm-0)
+- The final revised prototype can be found at this link: [Final Hifi Prototype](https://www.figma.com/proto/4twDn9DJpKNgK0MMNSx9Yk/DH110-PROJECT?type=design&node-id=147-22284&scaling=scale-down&page-id=147%3A22283&starting-point-node-id=147%3A22284)
+- The Figma file for the revised prototype can be found at this link: [Final Hifi Figma file](https://www.figma.com/file/4twDn9DJpKNgK0MMNSx9Yk/DH110-PROJECT?type=design&node-id=147-22283&t=YxUQ5wkCxl0L7aZm-0)
 
 <img width="820" alt="Screenshot 2023-05-22 at 1 15 13 PM" src="https://github.com/harynshin/DH110-HARYNSHIN/assets/116034969/3ac623ac-fb5d-4025-a657-d8d54eacb28f">
 
