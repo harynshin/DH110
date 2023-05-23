@@ -55,7 +55,7 @@ Here is the full Prototype flow for all screens, and the corresponding Figma fil
   > Note: Dr. Cho, please find the editor view of this Google form at [this link](https://docs.google.com/forms/d/1yCw6OvopC0dpA8YePValcfhZxSwqdwUbBZc0S7pqs-g/edit)
 - Please find the prototype testing video at this link: [Hifi Prototype Testing Video](https://drive.google.com/file/d/1LQV23WYDLlAtmLXnBI3KohMIcef806T7/view?usp=sharing)
 
-In the process of prototype testing, I aimed to assess the following 4 questions that are ought to be asked during a cognitive walkthrough, laid by [this article](https://www.interaction-design.org/literature/article/how-to-conduct-a-cognitive-walkthrough):
+In the process of prototype testing, I aimed to assess the following 4 questions that are ought to be asked during a cognitive walkthrough, laid by [How to Conduct a Cognitive Walkthrough](https://www.interaction-design.org/literature/article/how-to-conduct-a-cognitive-walkthrough):
   1) Were the user able to try and achieve the right outcome?
   2) Were the user able to notice that the correct action is available to them?
   3) Were the user able to associate the correct action with the outcome they expect to achieve?
