@@ -31,6 +31,10 @@ Summary statement and link to or an embedded prototype
 - Optional evaluation and revision history (including cognitive walkthrough; impression test, 
 - accessibility audit, NEW usability testing), per each summary and link to the notes (when you share the video or other detailed evidences) 
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F4twDn9DJpKNgK0MMNSx9Yk%2FDH110-PROJECT%3Ftype%3Ddesign%26node-id%3D147-22284%26scaling%3Dscale-down%26page-id%3D147%253A22283%26starting-point-node-id%3D147%253A22284" allowfullscreen></iframe>
+
 ### Pitch video [update the video after recording your presentation]
 ### Conclusion
 - what you learned throughout the process
+
+
